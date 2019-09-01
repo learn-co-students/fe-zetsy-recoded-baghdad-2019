@@ -1,6 +1,6 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 
 /*////////// Global Styles //////////*/
 
@@ -17,4 +17,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+h1{
+  font-family: 'Lato', Sans-Serif;
+}
+
