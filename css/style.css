@@ -57,3 +57,6 @@ img{
 .footer{
 	float: right;
 }
+.links img:hover{
+ border: 5px solid #717f7a;
+}
