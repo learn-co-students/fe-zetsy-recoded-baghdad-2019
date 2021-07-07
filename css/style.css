@@ -2,7 +2,9 @@
 
 /* link the web font used for the level 1 heading here */
 
+
 /*////////// Global Styles //////////*/
+
 
 body {
 	background: #F3EBE9;
@@ -16,5 +18,38 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+#cover img{
+	border: 3px solid rgb(152,173,166);
+}
+header a{
+	text-decoration: none;
+	font-size: 90px;
+	color: rgb(152,173,166);
+	font-family:'Baskerville', serif;
+}
+header a:hover{
+color: #555;
+}
+h2{
+	color: rgb(152,173,166);
+	font-size: 30px;
+}
+p{
+	
+    font-family: 'Times New Roman', serif;
+}
+#more{
+	text-decoration: none;
+	color: #1783bb;;
+}
+#footer{
+	text-align: right;
+	font-size:12px;
+	color: #555;
 
+}
+.container img{
+	border: 3px solid rgb(152,173,166);
+
+}
 /* Write all remaining styles here */
